@@ -1,0 +1,7 @@
+Name: Sankendla Joshna
+College: VNR VJIET
+
+About Me:
+I am a B.Tech CSE student.
+I enjoy learning programming and improving my coding skills.
+i am learning Git and Github
